@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 606
     height: 621
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -403,7 +403,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Planets of the Solar System 3D
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -413,16 +413,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Planets of the Solar System 3D
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Projects\Unity Projects\AR Solar System
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 92}
-    m_SelectedIDs: 8cb80000
-    m_LastClickedID: 47244
-    m_ExpandedIDs: 0000000022b8000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 240}
+    m_SelectedIDs: e8b80000
+    m_LastClickedID: 47336
+    m_ExpandedIDs: 0000000070b80000e0b8000032b900003cba000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -451,7 +451,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7e020000
     m_LastClickedID: 638
-    m_ExpandedIDs: 0000000022b80000
+    m_ExpandedIDs: 0000000070b80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -479,22 +479,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: PlanetOrbit
+      m_OriginalName: PlanetOrbit
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 26674
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 5}
@@ -553,7 +553,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 611
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -598,10 +598,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 34b20000
-      m_LastClickedID: 45620
-      m_ExpandedIDs: 3efaffff0cfbffff0ab2000034b20000
+      scrollPos: {x: 0, y: 368}
+      m_SelectedIDs: 32680000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 98f9ffff66faffff6ab6000074b600007cb6000080b6000088b6000094b60000a2b60000aab60000beb60000c4b60000dcb60000eeb60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1164,9 +1164,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.8294271, y: 0.10227149, z: -0.23547521}
+    m_Target: {x: 1.3308561, y: 0.4486869, z: -0.9740367}
     speed: 2
-    m_Value: {x: 0.8294271, y: 0.10227149, z: -0.23547521}
+    m_Value: {x: 1.3308561, y: 0.4486869, z: -0.9740367}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1212,13 +1212,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.482
   m_Rotation:
-    m_Target: {x: -0.22294113, y: 0.0634127, z: -0.014517274, w: -0.97268647}
+    m_Target: {x: -0.15557075, y: -0.03644412, z: 0.0057553705, w: -0.98716426}
     speed: 2
-    m_Value: {x: -0.22295669, y: 0.061951894, z: -0.014182456, w: -0.9727544}
+    m_Value: {x: -0.15556633, y: -0.036443084, z: 0.005755207, w: -0.98713624}
   m_Size:
     m_Target: 0.06454063
     speed: 2
-    m_Value: 0.06758181
+    m_Value: 0.06454063
   m_Ortho:
     m_Target: 0
     speed: 2
