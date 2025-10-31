@@ -1,11 +1,18 @@
-# Unity-specific ignores
+# Unity generated folders
 /[Ll]ibrary/
-/emp/
+/[Tt]emp/
 /[Oo]bj/
-/uild/
-/uilds/
+/[Bb]uild/
+/[Bb]uilds/
 /[Ll]ogs/
-/[Uu]serSettings/
+/[Uu]ser[Ss]ettings/
+
+# Unity packages
+/[Pp]ackages/*.tgz
+/[Pp]ackages/packages-lock.json
+
+# Package cache
+/[Ll]ibrary/[Pp]ackageCache/
 
 # MemoryCaptures can be huge
 /[Mm]emoryCaptures/
