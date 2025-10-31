@@ -2,7 +2,7 @@
 
 An educational Augmented Reality (AR) application for Android, built with Unity 6 and Vuforia. Point your device's camera at a printed marker image to display an interactive 3D solar system. This project was developed as a final submission for the **CCS4361 — Immersive Technology Development** course.
 
-![Preview (replace with a GIF of the working app)](https://i.imgur.com/your_image_link_here.png)
+!(https://github.com/tharukanandasiri/AR_SolarSystem/blob/main/readme-images/AR%20Solar%20System%20Image.png?raw=true)
 
 ---
 
@@ -72,7 +72,7 @@ git clone https://github.com/tharukanandasiri/AR_SolarSystem.git
 
 You must print or display the marker image to trigger the AR experience. For best results, use a matte (non-glossy) print.
 
-![AR Marker (replace with your marker image)](https://i.imgur.com/your_marker_image_link_here.png)
+!(https://github.com/tharukanandasiri/AR_SolarSystem/blob/main/readme-images/AR%20Marker.png?raw=true)
 
 > Replace the image link above with your actual marker image (or upload a higher-resolution version). For a nicer demo, replace the preview screenshot with a GIF showing the working app.
 
