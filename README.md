@@ -81,5 +81,3 @@ git checkout preserve-local-work
 If you run into conflicts while rebasing, resolve them as usual (`git add <files>` then `git rebase --continue`). If you're unsure, keep the backup branch and ask for help — I can prepare tailored steps for your exact local state.
 
 ---
-
-If you'd like, I can also add a short CONTRIBUTING.md describing this workflow for future contributors.
