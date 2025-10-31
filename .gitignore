@@ -5,13 +5,13 @@
 /uild/
 /uilds/
 /[Ll]ogs/
-/[Uu]serettings/
+/[Uu]serSettings/
 
 # MemoryCaptures can be huge
 /[Mm]emoryCaptures/
 
 # Asset Store folder - contents should be downloaded through the Package Manager
-/[Aa]ssets/[Aa]ssettoreools/
+/[Aa]ssets/[Aa]ssettoreTools/
 
 # Visual Studio / Rider temporary files
 .vs/
@@ -35,6 +35,7 @@
 .DS_Store
 ._*
 
-# Build files
+# Build files and packages
 *.apk
 *.aab
+*.tgz
