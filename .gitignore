@@ -1,0 +1,40 @@
+# Unity-specific ignores
+/[Ll]ibrary/
+/emp/
+/[Oo]bj/
+/uild/
+/uilds/
+/[Ll]ogs/
+/[Uu]serettings/
+
+# MemoryCaptures can be huge
+/[Mm]emoryCaptures/
+
+# Asset Store folder - contents should be downloaded through the Package Manager
+/[Aa]ssets/[Aa]ssettoreools/
+
+# Visual Studio / Rider temporary files
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Mac files
+.DS_Store
+._*
+
+# Build files
+*.apk
+*.aab

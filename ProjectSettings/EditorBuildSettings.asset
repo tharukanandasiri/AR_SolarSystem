@@ -5,8 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
+  - enabled: 1
+    path: Assets/AR Solar System.unity
+    guid: 7e38bc08fa4359947a7562413b9fbf10
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
